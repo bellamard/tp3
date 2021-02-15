@@ -1,0 +1,74 @@
+body {
+    background: #c9c9c9;  
+    width: 80%;  
+    margin: auto;    
+}
+h1{
+    text-align: center;
+    font-size: 66px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif ;
+ }
+strong{
+    font-size: 1rem;
+}
+
+h2{
+    color: red;
+    
+}
+.design{
+    border-collapse: collapse;
+    width: 100%;
+    min-width: auto;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+thead tr{
+    background-color: black;
+    color: white;
+}
+tr td, th{
+    padding: 10px;
+}
+tbody tr:nth-child(even){
+    background-color:#dedede;
+}
+tbody tr:hover{
+    background-color: grey;
+}
+
+a{
+    color: red;
+    font-weight: bolder;
+}
+
+figure{
+    background-color:#303030;
+    border:3px solid red;
+    border-radius: 10px;
+    padding: 2%;  
+    
+    
+}
+figcaption{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+figure img{
+    padding:5%;
+    width: 80%;
+}
+#fin{
+    border:3px dashed #4358ad;
+    color: #4358ad;
+    padding: 2%;
+    background-color: #b8b8b8;
+}
+#code{
+    background-color:#303030;
+    border:3px solid gray;
+
+}
