@@ -1,7 +1,11 @@
 body {
     background: #c9c9c9;  
+     
+}
+main{
     width: 70%;  
-    margin: auto;    
+    margin: auto;  
+    
 }
 h1{
     text-align: center;
@@ -45,12 +49,12 @@ a{
 }
 
 figure{
-
+    width: 100%;
     background-color:#303030;
     border:3px solid #c33a31;
     border-radius: 10px;
-    padding: 2%;  
-    
+    margin-left: 0px;
+    padding-top: 30px;
     
 }
 
@@ -58,11 +62,14 @@ figcaption{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    margin-left:5%;
-    margin-right: 5%;
+    margin: 20px auto;
+    width: 80%;
+   
 }
 figure img{
-    width: 100%;
+    display: block;
+    width: 95%;
+    margin: auto;
 }
 .fin{
     border:3px dashed #4358ad;
