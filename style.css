@@ -63,7 +63,7 @@ figcaption{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin: 20px auto;
-    width: 80%;
+    width: 100%;
    
 }
 figure img{
@@ -76,7 +76,7 @@ figure img{
     color: #4358ad;
     padding: 1%;
     background-color: #b8b8b8;
-    line-height: 2.5em;
+    line-height: 2em;
 
 
 }
