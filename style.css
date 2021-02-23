@@ -72,6 +72,8 @@ figure img{
     margin: auto;
 }
 .fin{
+    width: 90%;
+    margin: auto;
     border:3px dashed #4358ad;
     color: #4358ad;
     padding: 1%;
@@ -81,12 +83,15 @@ figure img{
 
 }
 .code{
+    width: 80%;
     background-color:#303030;
     border:3px solid gray;
     color: white;
-    padding: 2%;
-
+    
 }
+pre{
+    width: 80%
+    }
 li{
     font-family: Arial, Helvetica, sans-serif ;
     list-style: none;
